@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Courses\\DEPI\\Non_Technical\\Gigs\\GIG4\\WaterMarkApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BA5CEB-97D8-24D9-7592-DC0D37582CE0}|WaterMarkApplication\\WaterMarkApplication.csproj|d:\\courses\\depi\\non_technical\\gigs\\gig4\\watermarkapplication\\watermarkapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BA5CEB-97D8-24D9-7592-DC0D37582CE0}|WaterMarkApplication\\WaterMarkApplication.csproj|solutionrelative:watermarkapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEB4B2D-4866-42B4-9473-F7BBBCDA808D}|WaterMarkApplication\\WaterMarkApplication.csproj|D:\\Courses\\DEPI\\Non_Technical\\Gigs\\GIG4\\WaterMarkApplication\\watermarkapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FEB4B2D-4866-42B4-9473-F7BBBCDA808D}|WaterMarkApplication\\WaterMarkApplication.csproj|solutionrelative:watermarkapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BA5CEB-97D8-24D9-7592-DC0D37582CE0}|WaterMarkApplication\\WaterMarkApplication.csproj|d:\\courses\\depi\\non_technical\\gigs\\gig4\\watermarkapplication\\watermarkapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BA5CEB-97D8-24D9-7592-DC0D37582CE0}|WaterMarkApplication\\WaterMarkApplication.csproj|solutionrelative:watermarkapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BA5CEB-97D8-24D9-7592-DC0D37582CE0}|WaterMarkApplication\\WaterMarkApplication.csproj|d:\\courses\\depi\\non_technical\\gigs\\gig4\\watermarkapplication\\watermarkapplication\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BA5CEB-97D8-24D9-7592-DC0D37582CE0}|WaterMarkApplication\\WaterMarkApplication.csproj|solutionrelative:watermarkapplication\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Courses\\DEPI\\Non_Technical\\Gigs\\GIG4\\WaterMarkApplication\\WaterMarkApplication\\Program.cs",
+              "RelativeDocumentMoniker": "WaterMarkApplication\\Program.cs",
+              "ToolTip": "D:\\Courses\\DEPI\\Non_Technical\\Gigs\\GIG4\\WaterMarkApplication\\WaterMarkApplication\\Program.cs",
+              "RelativeToolTip": "WaterMarkApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T22:47:28.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Courses\\DEPI\\Non_Technical\\Gigs\\GIG4\\WaterMarkApplication\\WaterMarkApplication\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WaterMarkApplication\\Form1.Designer.cs",
+              "ToolTip": "D:\\Courses\\DEPI\\Non_Technical\\Gigs\\GIG4\\WaterMarkApplication\\WaterMarkApplication\\Form1.Designer.cs",
+              "RelativeToolTip": "WaterMarkApplication\\Form1.Designer.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwHIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T22:42:09.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Courses\\DEPI\\Non_Technical\\Gigs\\GIG4\\WaterMarkApplication\\WaterMarkApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "WaterMarkApplication\\Form1.cs",
+              "ToolTip": "D:\\Courses\\DEPI\\Non_Technical\\Gigs\\GIG4\\WaterMarkApplication\\WaterMarkApplication\\Form1.cs",
+              "RelativeToolTip": "WaterMarkApplication\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T22:40:16.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Courses\\DEPI\\Non_Technical\\Gigs\\GIG4\\WaterMarkApplication\\WaterMarkApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "WaterMarkApplication\\Form1.cs",
+              "ToolTip": "D:\\Courses\\DEPI\\Non_Technical\\Gigs\\GIG4\\WaterMarkApplication\\WaterMarkApplication\\Form1.cs [Design]",
+              "RelativeToolTip": "WaterMarkApplication\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T22:38:38.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

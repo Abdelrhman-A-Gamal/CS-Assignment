@@ -1,0 +1,16 @@
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\WaterMarkApplication\WaterMarkApplication\obj\Debug\net10.0-windows\WaterMarkApplication.Form1.resources
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\WaterMarkApplication\WaterMarkApplication\obj\Debug\net10.0-windows\WaterMarkApplication.csproj.GenerateResource.cache
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\WaterMarkApplication\WaterMarkApplication\obj\Debug\net10.0-windows\WaterMarkApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\WaterMarkApplication\WaterMarkApplication\obj\Debug\net10.0-windows\WaterMarkApplication.AssemblyInfoInputs.cache
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\WaterMarkApplication\WaterMarkApplication\obj\Debug\net10.0-windows\WaterMarkApplication.AssemblyInfo.cs
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\WaterMarkApplication\WaterMarkApplication\obj\Debug\net10.0-windows\WaterMarkApplication.csproj.CoreCompileInputs.cache
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\WaterMarkApplication\WaterMarkApplication\bin\Debug\net10.0-windows\WaterMarkApplication.exe
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\WaterMarkApplication\WaterMarkApplication\bin\Debug\net10.0-windows\WaterMarkApplication.deps.json
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\WaterMarkApplication\WaterMarkApplication\bin\Debug\net10.0-windows\WaterMarkApplication.runtimeconfig.json
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\WaterMarkApplication\WaterMarkApplication\bin\Debug\net10.0-windows\WaterMarkApplication.dll
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\WaterMarkApplication\WaterMarkApplication\bin\Debug\net10.0-windows\WaterMarkApplication.pdb
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\WaterMarkApplication\WaterMarkApplication\obj\Debug\net10.0-windows\WaterMarkApplication.dll
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\WaterMarkApplication\WaterMarkApplication\obj\Debug\net10.0-windows\refint\WaterMarkApplication.dll
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\WaterMarkApplication\WaterMarkApplication\obj\Debug\net10.0-windows\WaterMarkApplication.pdb
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\WaterMarkApplication\WaterMarkApplication\obj\Debug\net10.0-windows\WaterMarkApplication.genruntimeconfig.cache
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\WaterMarkApplication\WaterMarkApplication\obj\Debug\net10.0-windows\ref\WaterMarkApplication.dll
