@@ -1,0 +1,9 @@
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\Transformation\Transformation\obj\Debug\Transformation.csproj.AssemblyReference.cache
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\Transformation\Transformation\obj\Debug\Transformation.Properties.Resources.resources
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\Transformation\Transformation\obj\Debug\Transformation.csproj.GenerateResource.cache
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\Transformation\Transformation\obj\Debug\Transformation.csproj.CoreCompileInputs.cache
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\Transformation\Transformation\bin\Debug\Transformation.exe.config
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\Transformation\Transformation\bin\Debug\Transformation.exe
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\Transformation\Transformation\bin\Debug\Transformation.pdb
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\Transformation\Transformation\obj\Debug\Transformation.exe
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\Transformation\Transformation\obj\Debug\Transformation.pdb
