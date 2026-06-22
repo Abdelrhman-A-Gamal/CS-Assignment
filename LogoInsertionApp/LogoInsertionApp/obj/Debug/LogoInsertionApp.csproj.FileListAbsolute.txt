@@ -1,0 +1,9 @@
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\LogoInsertionApp\LogoInsertionApp\bin\Debug\LogoInsertionApp.exe.config
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\LogoInsertionApp\LogoInsertionApp\bin\Debug\LogoInsertionApp.exe
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\LogoInsertionApp\LogoInsertionApp\bin\Debug\LogoInsertionApp.pdb
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\LogoInsertionApp\LogoInsertionApp\obj\Debug\LogoInsertionApp.csproj.AssemblyReference.cache
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\LogoInsertionApp\LogoInsertionApp\obj\Debug\LogoInsertionApp.Properties.Resources.resources
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\LogoInsertionApp\LogoInsertionApp\obj\Debug\LogoInsertionApp.csproj.GenerateResource.cache
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\LogoInsertionApp\LogoInsertionApp\obj\Debug\LogoInsertionApp.csproj.CoreCompileInputs.cache
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\LogoInsertionApp\LogoInsertionApp\obj\Debug\LogoInsertionApp.exe
+D:\Courses\DEPI\Non_Technical\Gigs\GIG4\LogoInsertionApp\LogoInsertionApp\obj\Debug\LogoInsertionApp.pdb
